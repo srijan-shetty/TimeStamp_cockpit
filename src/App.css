@@ -2,7 +2,8 @@
   text-align: center;
   /*background-image: url("https://danskebank.com/-/media/danske-bank-images/dbcom/images/generic/dsc_2186---oslo-branch.jpg?rev=2a57083e2dd24e428866d74a00b70e82&hash=2F97F667C02248A21BE9B865DA4AA044");
   */
-  background-image: url("image.jpg");
+/*   background-image: url("image.jpg"); */
+  bacground-color: 'grey;
   
   position:fixed;
   min-width:  100%;
@@ -36,7 +37,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: 'white';
 }
 
 .App-link {
